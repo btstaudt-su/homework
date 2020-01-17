@@ -1,0 +1,34 @@
+﻿Benjamin Todd Staudt        
+btstaudt@syr.edu
+110 Sutton Lane
+Pooler, GA 31322
+(912) 659-5055
+Date of Birth: September 27, 1999
+                                                                                       
+Syracuse University, School of Information Studies
+Bachelor of Science, May 2022
+Major: Information Management and Technology
+GPA: 3.04
+
+
+Savannah Christian Preparatory School
+Diploma, Magna Cum Laude, May 2018                                                                                                     
+                                                          
+CLASSES
+Application Programming for Information Systems
+* Furthered skills in the Python programming language with structured program design, development, testing, implementation, and documentation of common information systems
+Introduction to Computer Science
+* Used the programming language Haskell to better learn, understand, and apply common programming logic and syntax
+Introduction to Computer Networking
+* Learned about a basic overview of many past and present technologies, standards, implementation and management of digital computer networks, including wired and wireless networks, Internet protocols, telecommunications, and network security
+Information Technologies
+* Learned basic skills in fields including Project Management, Information Security Management, Web Design, and Data Analytics
+
+
+SKILLS
+        Languages: Python, HTML
+
+
+PREVIOUS EMPLOYMENT
+Savannah Airport Commision - Customer Care Specialist (June 2019 - August 2019)
+* Met departing and arriving flights at Savannah-Hilton Head International Airport to transport passengers who required special assistance
